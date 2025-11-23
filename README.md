@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @softdevninja
-- 👀 I’m interested in programming and web development.
-- 🌱 I’m currently learning Python and other web related languages and frameworks.
-- 💞️ I’m looking to collaborate with anyone willing to pitch an idea or work on a current project.
-- 📫 How to reach me ... email: doug.biz@outlook.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love the ocean, nature, seeing palm trees and learning about our universe.
+# Hi there 👋
 
-<!---
-softdevninja/softdevninja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Doug, a developer who enjoys exploring Python, automation, data analysis, and solving real-world problems through code.
+
+### 🔧 Technologies & Tools
+- Python | C# | C++ | JavaScript
+- Git | GitHub  
+- Linux | Windows  
+- Networking & Security fundamentals  
+- Automation & Scripting
+- Web Develoment & Project Management  
+
+### 📌 What I'm Working On
+- Building small automation tools  
+- Improving my data analysis skills  
+- Expanding my cybersecurity and networking knowledge  
+
+### 📫 How to reach me
+- LinkedIn: (https://www.linkedin.com/in/doug-zuniga/)
+- Email: doug.biz@outlook.com
+- Website: Construction In Progress 
+
+Thanks for visiting!
